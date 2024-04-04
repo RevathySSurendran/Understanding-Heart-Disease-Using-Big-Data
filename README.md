@@ -1,1 +1,7 @@
 # Understanding-Heart-Disease-Using-Big-Data
+
+Heart disease, also known as cardiovascular disease, encompass a wide range of conditions that affect the heart. These include blood vessel diseases, heart rhythm problems, and congenital heart defects. Heart disease has been the leading cause of death worldwide for several decades. Given the critical nature of this issue, it is essential to obtain an accurate and reliable approach to achieve early diagnosis of heart diseases. One way to address this is by automating the task, which can lead to more efficient management of these conditions.
+
+This study utilizes big data analytics to provide informative decision-making tools for assessing an individual's risk of heart failure. The research employs supervised learning models, including Logistic Regression, Support Vector Classifier, Gradient Boosted Tree, and Random Forest, to present a comparative study and identify the most efficient algorithm for predicting the likelihood of individuals developing heart failure and cardiovascular disease. By leveraging advanced data analytics techniques, this study aims to enable more effective and timely interventions, ultimately contributing to improved patient outcomes and reduced mortality rates associated with heart diseases.
+
+Keywords—heart failure; cardiovascular disease, big data analytics; pyspark; random forest, support vector classifier, gradient boosted tree, logistic regression.
